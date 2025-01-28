@@ -37,7 +37,14 @@ sudo apt-get install libc6-dev
 
 Alpine
 
+```
+apk add build-base
+```
 
 ```sh
 apk add libc-dev
+```
+
+```
+apk add openssh-client
 ```
